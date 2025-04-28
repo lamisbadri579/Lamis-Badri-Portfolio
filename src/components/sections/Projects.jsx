@@ -167,8 +167,8 @@ export const Projects = () => {
               </div>
               <div className="flex  items-center gap-[5%]">
                 
-                <a href="https://github.com/lamisbadri579/NotLost_JustNew/tree/master" target="_blank" rel="noopener noreferrer" className="bg-[#e1b5ba] text-black p-2 rounded-lg  flex items-center gap-[7px]  hover:bg-[#e1b5bae4]"><img className="w-1/4" src={github_button} alt="" />Github</a>
-                <a href="https://appetize.io/app/b_nxsfybngagoc63utqaamrv2tvu" target="_blank" rel="noopener noreferrer" className="h-[42px] bg-[#580109] p-2 rounded-lg flex items-center gap-[7px] hover:bg-[#58010ac1]"><img className="w-1/4" src={demo_button} alt="" />Demo</a>
+                <a href="https://github.com/lamisbadri579/NOTLOST_JUSTNEW" target="_blank" rel="noopener noreferrer" className="bg-[#e1b5ba] text-black p-2 rounded-lg  flex items-center gap-[7px]  hover:bg-[#e1b5bae4]"><img className="w-1/4" src={github_button} alt="" />Github</a>
+                <a href="https://appetize.io/app/b_3ygcclg3enxcj3spunspfo2vzy" target="_blank" rel="noopener noreferrer" className="h-[42px] bg-[#580109] p-2 rounded-lg flex items-center gap-[7px] hover:bg-[#58010ac1]"><img className="w-1/4" src={demo_button} alt="" />Demo</a>
                 
               </div>
             </div>
